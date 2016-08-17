@@ -7,7 +7,7 @@
 var things = ["potato", "raddish", "carrot", "turnip", "beet", "yam"];
 var programmers = ["potato man", "raddishes", "carrots", "beets man", "yam man", "dirt"]
 var castles = ["dirt (is life!)", "soil", "soil is life"]
-var exertions = ["green", "grass", "beets are my favorite", "food", "i love beets", "i love raddishes", "shit"];
+var exertions = ["green", "grass", "beets are my favorite", "food", "i love beets", "i love raddishes", "beans"];
 var airs = ["sky", "clouds", "stars", "planet", "wind"];
 
 function choosei(lst){
