@@ -5,10 +5,10 @@
  */
 
 var things = ["potato", "raddish", "carrot", "turnip", "beet", "yam"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["museums", "bridges", "cities"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
-var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
+var programmers = ["potato man", "raddishes", "carrots", "beets man", "yam man", "dirt"]
+var castles = ["dirt is life", "soil", "soil is life"]
+var exertions = ["green", "grass", "beets are my favorite", "food", "i love beets", "i love raddishes", "shit"];
+var airs = ["sky", "clouds", "stars", "planet", "wind"];
 
 function choosei(lst){
     var i = Math.floor(Math.random() * lst.length);
