@@ -40,7 +40,7 @@ q.innerHTML =
 q.innerHTML += "<br><br><br>";
 
 
-var is = ["is", "is not", "is like", "includes", "excludes", "is beyond",
+var is = ["is dirt", "is not gross", "is like dirt", "includes dirt", "excludes anything but dirt", "is dirt",
 	  "extends", "encodes", "represents", "signifies", "consists of"];
 
 for (var i = 0; i < is.length; i = i + 1){
